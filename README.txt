@@ -13,8 +13,6 @@ across sign-up, login, session management, and protection against OWASP Top 10 v
 
 How to Run
 
-First unzip the file and inside folder secure-webapp on the search bar type cmd.
-
 bash in CMD
 
 1. Install dependencies
